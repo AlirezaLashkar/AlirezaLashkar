@@ -13,15 +13,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaLashkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlirezaLashkar&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AlirezaLashkar&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AlirezaLashkar&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlirezaLashkar&icon=8&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AlirezaLashkar&icon=9&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
