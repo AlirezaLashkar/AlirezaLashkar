@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep learning and Transformers<br>🌱 I’m currently learning Transformers
+
+🎓 I’m an M.Sc. student in **Bioinformatics at Sharif University of Technology**, with a strong background in Computer Engineering.  
+🤖 I’m currently working on **Deep Learning and Transformer-based architectures** for intelligent data analysis.  
+🌱 I’m continuously learning and exploring new advancements in **Artificial Intelligence**, **Machine Learning**, and **Computational Biology**.  
+💡 Passionate about bridging the gap between **AI and life sciences**, and developing impactful research-driven solutions.  
+💬 Ask me about **Python, Machine Learning, and AI applications in Bioinformatics**.  
+📫 How to reach me: [alireza.lashkarbolooki.99@sharif.edu]  
+⚡ Fun fact: I believe innovation begins where curiosity meets code.
 
 
 ## 🌐 Socials:
